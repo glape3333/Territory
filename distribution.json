@@ -176,16 +176,6 @@
           }
         },
         {
-          "id": "xaero.minimap:xaerominimap:24.6.2@jar",
-          "name": "Xaero's Minimap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1627490,
-            "url": "https://glape3333.github.io/mouth/servers/mouth-1.21.3/fabricmods/required/Xaeros_Minimap_24.6.2_Fabric_1.21.3.jar",
-            "MD5": "ed7f511e7ce4091dd2a967ba128e013a"
-          }
-        },
-        {
           "id": "iris.properties",
           "name": "iris.properties",
           "type": "File",
@@ -194,17 +184,6 @@
             "url": "https://glape3333.github.io/mouth/servers/mouth-1.21.3/files/config/iris.properties",
             "MD5": "6caf4bfa4f8edf6f45ca6223708c305c",
             "path": "config/iris.properties"
-          }
-        },
-        {
-          "id": "xaerominimap.txt",
-          "name": "xaerominimap.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3641,
-            "url": "https://glape3333.github.io/mouth/servers/mouth-1.21.3/files/config/xaerominimap.txt",
-            "MD5": "5a89c4896e235e17836ce3c32720d1ae",
-            "path": "config/xaerominimap.txt"
           }
         },
         {
